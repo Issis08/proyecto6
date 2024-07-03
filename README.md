@@ -1,5 +1,1 @@
-# JavaScript-y-POO
-# Daniel Alexander Perez Jacome
-danielperezec@gmail.com
-
-Ejercicios JavaScript y POO
+Issis Beltrán - Proyecto 6 - Javascript-POO
